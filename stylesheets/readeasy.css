@@ -15,7 +15,7 @@ div#app_info {
 	div#app_info div.phones {
 		height: 700px;
 		width: 421px;
-		background: url('../images/firstscreen.png') no-repeat top;
+		background: url('../images/login.jpg') no-repeat top;
 		float: left;
 		margin-top: 50px;
 	}
